@@ -5,6 +5,7 @@ h1 {
     font-weight: bold;
     font-style: italic;
     letter-spacing: 10px; /* space between letters */
+    text-shadow: 3px 2px 1px grey; /* shadow */
 }
 
 .World {
