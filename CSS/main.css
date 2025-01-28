@@ -11,3 +11,22 @@ h1 {
 .World {
     color: black;
 }
+
+p {
+    color: magenta;
+    text-align: center;
+}
+
+.p1 {
+    background-color: violet;
+    color: black;
+}
+
+.p2 {
+    background-color: paleturquoise ;
+    color: black;
+}
+
+.p3 {
+    background-color: springgreen;
+    color: black;
