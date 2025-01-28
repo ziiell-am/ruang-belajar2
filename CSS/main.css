@@ -16,7 +16,7 @@ p {
     color: magenta;
     text-align: center;
 }
-
+/* class p1 dan p2 dan p3 */
 .p1 {
     background-color: violet;
     color: black;
@@ -30,3 +30,15 @@ p {
 .p3 {
     background-color: springgreen;
     color: black;
+}
+
+h2 {
+    color: rgb(27, 109, 177); 
+    text-align: center;   
+    border: 1px solid black;
+    border-style: groove;  
+    border-color: rgb(0, 0, 0);
+    background-color: rgba(173, 87, 223, 0.212);
+    margin: 0px;
+    padding: 0px;
+}
